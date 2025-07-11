@@ -12,6 +12,5 @@
 - **특징**: 비동기 지원, 빠른 성능, 자동 문서화, 타입 힌트 활용
 - **용도**: REST API 서버, 머신러닝/AI 백엔드, 고성능 서비스
 
-## 참고
-- API: API는 Application Programming Interface의 약자로,
-소프트웨어끼리 서로 통신할 수 있게 해주는 약속 또는 규칙입니다.
+## Glossary
+- **API**: API는 Application Programming Interface의 약자로, 소프트웨어끼리 서로 통신할 수 있게 해주는 약속 또는 규칙입니다.
