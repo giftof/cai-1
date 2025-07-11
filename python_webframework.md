@@ -14,3 +14,6 @@
 
 ## Glossary
 - **API**: API는 Application Programming Interface의 약자로, 소프트웨어끼리 서로 통신할 수 있게 해주는 약속 또는 규칙입니다.
+
+test-line // 평가 신청 이후에 올린 내용, 평가시점에 보일지 확인 용도.
+
