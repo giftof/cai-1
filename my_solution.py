@@ -1,11 +1,2 @@
-def hello():
+def hello() -> str:
     return "Hello"
-
-def hello2():
-    print('"Hello"')
-
-def hello3():
-    return '"Hello"'
-
-def hello4():
-    print('Hello')
